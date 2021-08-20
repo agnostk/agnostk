@@ -45,6 +45,4 @@ I'm a self-taught programmer currently majoring in computer science @ [UFABC](ht
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![NuGet](https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoColor=white)
-
-
 ![Unity](https://img.shields.io/badge/-Unity-100000?style=flat-square&logo=unity)
