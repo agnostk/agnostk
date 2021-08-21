@@ -19,7 +19,7 @@ I'm a self-taught programmer currently majoring in computer science @ [UFABC](ht
   - I'm INTP: Logician;
   - I started programming at the age of 9;
   - I'm from Brazil;
-  - I'm not goot at sports;
+  - I'm not good at sports;
   - I hate emojis.
 ----
 ## Technologies & Tools
