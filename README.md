@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=HACFelipe" alt="HACFelipe" /></p>
 
-# Hi there, I'm **Felipe**!
+# Hi there, I'm **Felipe Cardoso**!
 
 ### I would say that I am a ***versatile*** developer. ###
 ----
