@@ -12,15 +12,16 @@ I'm a self-taught programmer currently majoring in computer science @ [UFABC](ht
 - I'm currently **open** to **fully remote** jobs.
 ----
 ## Currently Studying:
-- **Node.js**;
+- **.NET 6.0**;
 - **React**.
 ----
 ## About me:
-  - I'm INTP: Logician;
+  - I'm INTJ: Architect;
   - I started programming at the age of 9;
   - I'm from Brazil;
   - I'm not good at sports;
-  - I hate emojis.
+  - I've won some medals in robotics competitions in the past;
+  - I dislike emojis. :-)
 ----
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
