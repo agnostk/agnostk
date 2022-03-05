@@ -4,8 +4,9 @@
 
 ### I would say that I am a ***versatile*** developer. ###
 ----
-I'm a self-taught programmer currently majoring in computer science @ [UFABC](https://www.ufabc.edu.br/en/).
+I'm currently majoring in computer science @ [UFABC](https://www.ufabc.edu.br/en/).
 - I'm aiming to become a **fullstack developer;**
+- Although I have a lot of experience with data, I am now looking for positions in **Software Engineering**;
 - I do enjoy game development ***a lot***;
 - You can contact me at <felipehasc@gmail.com>;
 - And get my resume at <https://www.linkedin.com/in/HACFelipe/>;
