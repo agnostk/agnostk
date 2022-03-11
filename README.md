@@ -22,7 +22,6 @@ I'm currently majoring in computer science @ [UFABC](https://www.ufabc.edu.br/en
   - I'm from Brazil;
   - I'm not good at sports;
   - I've won some medals in robotics competitions in the past;
-  - I dislike emojis. :-)
 ----
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
