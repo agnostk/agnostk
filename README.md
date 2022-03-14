@@ -14,7 +14,7 @@ I'm currently majoring in computer science @ [UFABC](https://www.ufabc.edu.br/en
 ----
 ## Currently Studying:
 - **.NET 6.0**;
-- **React**.
+- **Angular 13**.
 ----
 ## About me:
   - I'm INTJ: Architect;
