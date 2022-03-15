@@ -11,6 +11,7 @@ I'm currently majoring in computer science @ [UFABC](https://www.ufabc.edu.br/en
 - You can contact me at <felipehasc@gmail.com>;
 - And get my resume at <https://www.linkedin.com/in/felipehac/>;
 - I'm currently **open** to **fully remote** jobs.
+- I'm open to worldwide remote jobs
 ----
 ## Currently Studying:
 - **.NET 6.0**;
