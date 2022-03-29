@@ -49,3 +49,5 @@ I'm currently majoring in computer science @ [UFABC](https://www.ufabc.edu.br/en
 ---
 - You can contact me at <felipehasc@gmail.com>;
 - And get my resume at <https://www.linkedin.com/in/felipehac/>;
+---
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipehac&show_icons=true&locale=en&hide=stars&theme=tokyonight" alt="felipehac GitHub stats">
