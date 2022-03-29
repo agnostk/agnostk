@@ -2,28 +2,6 @@
 
 # Hi there, I'm **Felipe Cardoso**!
 
-### I would say that I am a ***versatile*** developer. ###
-----
-I'm currently majoring in computer science @ [UFABC](https://www.ufabc.edu.br/en/).
-- I'm aiming to become a **fullstack developer;**
-- Although I have a lot of experience with data, I am now looking for positions in **Software Engineering**;
-- I do enjoy game development ***a lot***;
-- You can contact me at <felipehasc@gmail.com>;
-- And get my resume at <https://www.linkedin.com/in/felipehac/>;
-- I'm currently **open** to **fully remote** jobs.
-- I'm open to worldwide remote jobs
-----
-## Currently Studying:
-- **.NET 6.0**;
-- **Angular 13**.
-----
-## About me:
-  - I'm INTJ: Architect;
-  - I started programming at the age of 9;
-  - I'm from Brazil;
-  - I'm not good at sports;
-  - I've won some medals in robotics competitions in the past;
-----
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -48,3 +26,26 @@ I'm currently majoring in computer science @ [UFABC](https://www.ufabc.edu.br/en
 ![yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![NuGet](https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-100000?style=flat-square&logo=unity)
+----
+### I would say that I am a ***versatile*** developer. ###
+----
+I'm currently majoring in computer science @ [UFABC](https://www.ufabc.edu.br/en/).
+- I'm aiming to become a **fullstack developer;**
+- Although I have a lot of experience with data, I am now looking for positions in **Software Engineering**;
+- I do enjoy game development ***a lot***;
+- I'm currently **open** to **fully remote** jobs.
+- I'm open to worldwide remote jobs
+----
+## Currently Studying:
+- **.NET 6.0**;
+- **Angular 13**.
+----
+## About me:
+  - I'm INTJ: Architect;
+  - I started programming at the age of 9;
+  - I'm from Brazil;
+  - I'm not good at sports;
+  - I've won some medals in robotics competitions in the past;
+---
+- You can contact me at <felipehasc@gmail.com>;
+- And get my resume at <https://www.linkedin.com/in/felipehac/>;
