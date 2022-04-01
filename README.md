@@ -33,7 +33,7 @@ I'm currently majoring in computer science @ [UFABC](https://www.ufabc.edu.br/en
 - I'm aiming to become a **fullstack developer;**
 - Although I have a lot of experience with data, I am now looking for positions in **Software Engineering**;
 - I do enjoy game development ***a lot***;
-- I'm currently **open** to **fully remote** jobs.
+- I'm currently a Full Stack Developer @ Itaú Unibanco
 - I'm open to worldwide remote jobs
 ----
 ## Currently Studying:
