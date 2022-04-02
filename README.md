@@ -69,4 +69,5 @@ I started studying programming in 2008, at the age of nine, with the goal of cre
 ---
 
 ![felipehac GitHub stats](https://github-readme-stats.vercel.app/api?username=felipehac&show_icons=true&locale=en&hide=stars&theme=tokyonight)
+
 ![felipehac GitHub profile views](https://komarev.com/ghpvc/?username=HACFelipe)
