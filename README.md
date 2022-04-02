@@ -7,8 +7,6 @@ I started studying programming in 2008, at the age of nine, with the goal of cre
 - I am a Jr Full Stack Developer @ [Itaú Unibanco](https://www.itau.com/)
 - I'm studying Computer Science @ [UFABC](https://www.ufabc.edu.br/en/)
 - I've already worked as a Data Analyst, but currently I want to evolve as a Developer
-- You can explore my public projects at: [github.com/felipehac](https://github.com/felipehac?tab=repositories)
-- And my games at: [felipehac.itch.io](https://felipehac.itch.io)
 
 ----
 
@@ -55,11 +53,13 @@ I started studying programming in 2008, at the age of nine, with the goal of cre
 ----
 
 ### About me:
-  - I'm [INTJ: Architect](https://www.16personalities.com/profiles/856b00d69174e);
-  - I started programming at the age of 9;
-  - I'm from Brazil;
-  - I'm not good at sports;
-  - I've won some medals in robotics competitions in the past.
+- I'm [INTJ: Architect](https://www.16personalities.com/profiles/856b00d69174e);
+- I started programming at the age of 9;
+- I'm from Brazil;
+- I'm not good at sports;
+- I've won some medals in robotics competitions in the past.
+- You can explore my public projects at [github.com/felipehac](https://github.com/felipehac?tab=repositories)
+- And my games at [felipehac.itch.io](https://felipehac.itch.io)
 
 ---
 
