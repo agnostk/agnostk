@@ -3,7 +3,7 @@
 ### I would say that I am a ***versatile*** developer. ###
 ----
 - I'm currently working as a Jr Full Stack Developer @ [Itaú Unibanco](https://www.itau.com/)
-- Also, I'm majoring in computer science @ [UFABC](https://www.ufabc.edu.br/en/).
+- Also, I'm majoring in computer science @ [UFABC](https://www.ufabc.edu.br/en/);
 - I'm a hobbyist game develoer as well ([itch.io](https://felipehac.itch.io/));
 - I'm open to worldwide remote jobs.
 ----
