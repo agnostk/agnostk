@@ -1,13 +1,18 @@
-# Hi there, I'm **Felipe Cardoso**!
+## Hi there, I'm **Felipe**!
 
-### I would say that I am a ***versatile*** developer. ###
+I started studying programming in 2008, at the age of nine, with the goal of creating games in Flash and ActionScript. I felt in love with programming and never stopped learning. I have knowledge in several programming languages and software architecture principles. I have participated in several competitions in robotics, competitive programming and game development (which is my favorite hobby by the way). I have two cats (Myelin😺 and Voxel 😸).
+
 ----
-- I'm currently working as a Jr Full Stack Developer @ [Itaú Unibanco](https://www.itau.com/)
-- Also, I'm majoring in computer science @ [UFABC](https://www.ufabc.edu.br/en/);
-- I'm a hobbyist game develoer as well ([itch.io](https://felipehac.itch.io/));
-- I'm open to worldwide remote jobs.
+
+- I am a Jr Full Stack Developer @ [Itaú Unibanco](https://www.itau.com/)
+- I'm studying Computer Science @ [UFABC](https://www.ufabc.edu.br/en/)
+- I've already worked as a Data Analyst, but currently I want to evolve as a Developer
+- You can explore my public projects at: [github.com/felipehac](https://github.com/felipehac?tab=repositories)
+- And my games at: [felipehac.itch.io](https://felipehac.itch.io)
+
 ----
-## Stack & Tools
+
+### Stack & Tools
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -40,20 +45,28 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 ----
-## Currently Studying:
+
+### Currently Studying:
 - **.NET 6.0**;
 - **Angular 13**.
+
 ----
-## About me:
+
+### About me:
   - I'm [INTJ: Architect](https://www.16personalities.com/profiles/856b00d69174e);
   - I started programming at the age of 9;
   - I'm from Brazil;
   - I'm not good at sports;
   - I've won some medals in robotics competitions in the past.
+
 ---
+
 - You can contact me at <felipehasc@gmail.com>;
 - And get my resume at <https://www.linkedin.com/in/felipehac/>.
+
 ---
+
 [felipehac GitHub stats](https://github-readme-stats.vercel.app/api?username=felipehac&show_icons=true&locale=en&hide=stars&theme=tokyonight)
 [felipehac GitHub profile views](https://komarev.com/ghpvc/?username=HACFelipe)
