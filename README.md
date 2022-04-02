@@ -4,8 +4,8 @@
 ----
 - I'm currently working as a Jr Full Stack Developer @ [Itaú Unibanco](https://www.itau.com/)
 - Also, I'm majoring in computer science @ [UFABC](https://www.ufabc.edu.br/en/).
-- I'm a hobbyist game develoer as well;
-- I'm open to worldwide remote jobs
+- I'm a hobbyist game develoer as well ([itch.io](https://felipehac.itch.io/));
+- I'm open to worldwide remote jobs.
 ----
 ## Technologies & Tools
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -40,10 +40,10 @@
   - I started programming at the age of 9;
   - I'm from Brazil;
   - I'm not good at sports;
-  - I've won some medals in robotics competitions in the past;
+  - I've won some medals in robotics competitions in the past.
 ---
 - You can contact me at <felipehasc@gmail.com>;
-- And get my resume at <https://www.linkedin.com/in/felipehac/>;
+- And get my resume at <https://www.linkedin.com/in/felipehac/>.
 ---
 [felipehac GitHub stats](https://github-readme-stats.vercel.app/api?username=felipehac&show_icons=true&locale=en&hide=stars&theme=tokyonight)
 [felipehac GitHub profile views](https://komarev.com/ghpvc/?username=HACFelipe)
