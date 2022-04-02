@@ -46,7 +46,7 @@
 - **Angular 13**.
 ----
 ## About me:
-  - I'm [INTJ: Architect](https://discord.com/channels/603174912693239811/603174913360003091/959694800188235836);
+  - I'm [INTJ: Architect](https://www.16personalities.com/profiles/856b00d69174e);
   - I started programming at the age of 9;
   - I'm from Brazil;
   - I'm not good at sports;
