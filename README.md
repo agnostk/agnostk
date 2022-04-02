@@ -47,23 +47,23 @@ I started studying programming in 2008, at the age of nine, with the goal of cre
 ----
 
 ### Currently Studying
-- **.NET 6.0**;
-- **Angular 13**.
+- **.NET 6.0**
+- **Angular 13**
 
 ----
 
 ### About me
-- I'm [INTJ: Architect](https://www.16personalities.com/profiles/856b00d69174e);
-- I started programming at the age of 9;
-- I'm from Brazil;
-- I've won some medals in robotics competitions in the past.
+- I'm [INTJ: Architect](https://www.16personalities.com/profiles/856b00d69174e)
+- I started programming at the age of 9
+- I'm from Brazil
+- I've won some medals in robotics competitions in the past
 - You can explore my public projects at [github.com/felipehac](https://github.com/felipehac?tab=repositories)
 - And my games at [felipehac.itch.io](https://felipehac.itch.io)
 
 ---
 
-- You can contact me at <felipehasc@gmail.com>;
-- And get my resume at <https://www.linkedin.com/in/felipehac/>.
+- You can contact me at <felipehasc@gmail.com>
+- And get my resume at <https://www.linkedin.com/in/felipehac/>
 
 ---
 
