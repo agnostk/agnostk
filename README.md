@@ -1,6 +1,6 @@
 ## Hi there, I'm **Felipe**!
 
-Starting out at the age of 9, in 2008, I felt in love with programming and never stopped learning. Early I started creating games for my friends in Flash with ActionScript 2.0, just for fun. Besides that, I explored web development, game development, Java, Python, C# and other general-purpose languages. Therefore, I've gained knowledge in several programming languages and software architecture principles.
+Starting out at the age of 9, in 2008, I felt in love with programming and never stopped learning. Early I started creating games for my friends in Flash with ActionScript, just for fun. Besides that, I explored web development, game development, Java, Python, C# and other general-purpose languages. Therefore, I've gained knowledge in several programming languages and software architecture principles. Today, I use all this acquired knowledge to solve real world problems.
 
 ----
 
