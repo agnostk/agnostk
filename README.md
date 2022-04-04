@@ -57,8 +57,8 @@ Starting out at the age of 9, in 2008, I felt in love with programming and never
 - I started programming at the age of 9
 - I'm from Brazil
 - I've won some medals in robotics competitions in the past
-- I also participated in a few game jams.
-- I have two cats (Myelin😺 and Voxel 😸).
+- I also participated in a few game jams
+- I have two cats (Myelin😺 and Voxel 😸)
 - You can explore my public projects at [github.com/felipehac](https://github.com/felipehac?tab=repositories)
 - And my games at [felipehac.itch.io](https://felipehac.itch.io)
 
