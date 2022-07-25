@@ -53,7 +53,7 @@ Starting out at the age of 9, in 2008, I felt in love with programming and never
 ----
 
 ### About me
-- I'm [INTJ: Architect](https://www.16personalities.com/profiles/856b00d69174e)
+- I'm [INTP-A: Assertive Logician](https://www.16personalities.com/profiles/856b00d69174e)
 - I started programming at the age of 9
 - I'm from Brazil
 - I've won some medals in robotics competitions in the past
