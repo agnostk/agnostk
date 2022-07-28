@@ -48,7 +48,7 @@ Starting out at the age of 9, in 2008, I felt in love with programming and never
 
 ### Currently Studying
 - **.NET 6.0**
-- **Angular 13**
+- **Angular 14**
 
 ----
 
