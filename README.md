@@ -53,9 +53,11 @@ Starting out at the age of 9, in 2008, I felt in love with programming and never
 
 ----
 
-### Work Experiences
+### Experience
 - Full Stack Developer @ [AB InBev @ Bees](https://www.bees.com/) | Oct 2022 - Current
 - Jr Full Stack Engineer @ [Itaú Unibanco](https://www.itau.com/) | Apr 2022 - Oct 2022
+- Intern @ [Itaú Unibanco](https://www.itau.com/) | Sep 2019 - Sep 2020
+- Intern @ [SAS](https://www.sas.com/) | Sep 2018 - Feb 2019
 
 ---
 
