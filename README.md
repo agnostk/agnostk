@@ -4,7 +4,7 @@ Starting out at the age of 9, in 2008, I felt in love with programming and never
 
 ----
 
-- I am a Jr Full Stack Developer @ [Itaú Unibanco](https://www.itau.com/)
+- I am a Jr Full Stack Developer @ [AB InBev @ Bees](https://www.bees.com/)
 - I'm studying Computer Science @ [UFABC](https://www.ufabc.edu.br/en/)
 - I've already worked as a Data Analyst, but currently I want to evolve as a Developer
 
@@ -47,11 +47,17 @@ Starting out at the age of 9, in 2008, I felt in love with programming and never
 ----
 
 ### Currently Studying
-- **C# 10**
-- **.NET 6.0**
-- **Angular 14**
+- **Java**
+- **Spring**
+- **Vue.js**
 
 ----
+
+### Work Experiences
+- Full Stack Developer @ [AB InBev @ Bees](https://www.bees.com/) | Oct 2022 - Current
+- Jr Full Stack Engineer @ [Itaú Unibanco](https://www.itau.com/) | Apr 2022 - Oct 2022
+
+---
 
 ### About me
 - I'm [INTP-A: Assertive Logician](https://www.16personalities.com/profiles/856b00d69174e)
@@ -60,16 +66,16 @@ Starting out at the age of 9, in 2008, I felt in love with programming and never
 - I've won some medals in robotics competitions in the past
 - I also participated in a few game jams
 - I have two cats (Myelin😺 and Voxel 😸)
-- You can explore my public projects at [github.com/felipehac](https://github.com/felipehac?tab=repositories)
-- And my games at [felipehac.itch.io](https://felipehac.itch.io)
+- You can explore my public projects at [github.com/fehacdev](https://github.com/fehacdev?tab=repositories)
+- And my games at [fehacdev.itch.io](https://fehacdev.itch.io)
 
 ---
 
 - You can contact me at <felipehasc@gmail.com>
-- And get my resume at <https://www.linkedin.com/in/felipehac/>
+- And get my resume at <https://www.linkedin.com/in/fehacdev/>
 
 ---
 
-![felipehac GitHub stats](https://github-readme-stats.vercel.app/api?username=felipehac&show_icons=true&locale=en&hide=stars&theme=tokyonight)
+![fehacdev GitHub stats](https://github-readme-stats.vercel.app/api?username=fehacdev&show_icons=true&locale=en&hide=stars&theme=tokyonight)
 
-![felipehac GitHub profile views](https://komarev.com/ghpvc/?username=HACFelipe)
+![fehacdev GitHub profile views](https://komarev.com/ghpvc/?username=HACFelipe)
