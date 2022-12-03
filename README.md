@@ -4,7 +4,7 @@ Starting out at the age of 9, in 2008, I felt in love with programming and never
 
 ----
 
-- I am a Jr Full Stack Developer @ [AB InBev @ Bees](https://www.bees.com/)
+- I am a Jr Full Stack Developer @ [AB InBev - Bees](https://www.bees.com/)
 - I'm studying Computer Science @ [UFABC](https://www.ufabc.edu.br/en/)
 - I've already worked as a Data Analyst, but currently I want to evolve as a Developer
 
