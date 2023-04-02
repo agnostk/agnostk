@@ -15,18 +15,15 @@ At just nine years old in 2008, I fell head-over-heels in love with programming,
 
 ---
 
-### About me
-- I'm [INTP-A: Assertive Logician](https://www.16personalities.com/profiles/856b00d69174e)
-- I started programming at the age of 9
-- I'm from Brazil
-- I've won some medals in robotics competitions in the past
-- I also participated in a few game jams
-- I have two cats (Myelin😺 and Voxel 😸)
-- You can explore my public projects at [github.com/fehacdev](https://github.com/fehacdev?tab=repositories)
-- And my games at [fehacdev.itch.io](https://fehacdev.itch.io)
+### Education
+- Bachelor in Science and Technology - [Universidade Federal do ABC](https://www.ufabc.edu.br/en/)
 
 ---
 
+### About me
+- I'm [INTP-A: Assertive Logician](https://www.16personalities.com/profiles/856b00d69174e)
+- I'm from Brazil
+- I have two cats (Myelin😺 and Voxel 😸)
 - You can contact me at <felipehasc@gmail.com>
 - And get my resume at <https://www.linkedin.com/in/fehacdev/>
 
