@@ -12,8 +12,6 @@ At just nine years old in 2008, I fell head-over-heels in love with programming,
 ### Experience
 - Senior Full Stack Developer I @ [AB InBev - Bees](https://www.bees.com/) | Oct 2022 - Present
 - Jr Full Stack Engineer @ [Itaú Unibanco](https://www.itau.com/) | Apr 2022 - Oct 2022
-- Intern @ [Itaú Unibanco](https://www.itau.com/) | Sep 2019 - Sep 2020
-- Intern @ [SAS](https://www.sas.com/) | Sep 2018 - Feb 2019
 
 ---
 
