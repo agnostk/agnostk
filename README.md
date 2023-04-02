@@ -34,6 +34,4 @@ At just nine years old in 2008, I fell head-over-heels in love with programming,
 
 ---
 
-![fehacdev GitHub stats](https://github-readme-stats.vercel.app/api?username=fehacdev&show_icons=true&locale=en&hide=stars&theme=tokyonight)
-
 ![fehacdev GitHub profile views](https://komarev.com/ghpvc/?username=HACFelipe)
