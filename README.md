@@ -10,7 +10,6 @@ At just nine years old in 2008, I fell in love with programming, and that passio
 
 ----
 
-
 ### Experience
 - Senior Back End Developer @ [AB InBev - Bees](https://www.bees.com/) | Jul 2023 - Present
 - Senior Full Stack Developer @ [AB InBev - Bees](https://www.bees.com/) | Oct 2022 - Jul 2023
@@ -24,9 +23,8 @@ At just nine years old in 2008, I fell in love with programming, and that passio
 
 ---
 
-### Currently Studying
+### Currently Improving
 - Rust 🦀
-- French 🇫🇷
 
 ### About me
 - I'm [INTJ-A: Assertive Architect](https://www.16personalities.com/profiles/856b00d69174e)
@@ -34,7 +32,3 @@ At just nine years old in 2008, I fell in love with programming, and that passio
 - I have two cats (Myelin😺 and Voxel 😸)
 - You can contact me at <agn0stkp@gmail.com>
 - And get my resume at <https://www.linkedin.com/in/fehacdev/>
-
----
-
-![fehacdev GitHub profile views](https://komarev.com/ghpvc/?username=HACFelipe)
