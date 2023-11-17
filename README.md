@@ -19,7 +19,7 @@ At just nine years old in 2008, I fell in love with programming, and that passio
 ---
 
 ### Education
-- Bachelor in Science and Technology - [Universidade Federal do ABC](https://www.ufabc.edu.br/en/)
+- Bachelor in Science and Technology - [Universidade Federal do ABC(https://www.ufabc.edu.br/en/) - 2023
 
 ---
 
