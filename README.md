@@ -13,8 +13,8 @@ At just nine years old in 2008, I fell in love with programming, and that passio
 ### Experience
 - Senior Full Stack Developer @ [AB InBev - Bees](https://www.bees.com/) | Oct 2022 - Present
 - Jr Full Stack Engineer @ [Itaú Unibanco](https://www.itau.com/) | Apr 2022 - Oct 2022
-- Fraud Prevention Analyst Intern @ [Itaú Unibanco](https://www.itau.com/) | Sep 2019 - Sep 2020
-- Data Analytics Consultant Intern @ [SAS](https://www.sas.com/en_us/home.html) | Sep 2018 - Feb 2019
+- Fraud Prevention Analyst - Internship @ [Itaú Unibanco](https://www.itau.com/) | Sep 2019 - Sep 2020
+- Data Analytics Consultant - Internship @ [SAS](https://www.sas.com/en_us/home.html) | Sep 2018 - Feb 2019
 ---
 
 ### Education
