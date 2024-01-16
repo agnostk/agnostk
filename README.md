@@ -6,13 +6,12 @@ At just nine years old in 2008, I fell in love with programming, and that passio
 
 ----
 
-- I currently work as a Senior Back End Developer @ [AB InBev - Bees](https://www.bees.com/)
+- I currently work as a Senior Full Stack Developer @ [AB InBev - Bees](https://www.bees.com/)
 
 ----
 
 ### Experience
-- Senior Back End Developer @ [AB InBev - Bees](https://www.bees.com/) | Jul 2023 - Present
-- Senior Full Stack Developer @ [AB InBev - Bees](https://www.bees.com/) | Oct 2022 - Jul 2023
+- Senior Full Stack Developer @ [AB InBev - Bees](https://www.bees.com/) | Oct 2022 - Present
 - Jr Full Stack Engineer @ [Itaú Unibanco](https://www.itau.com/) | Apr 2022 - Oct 2022
 - Fraud Prevention Analyst Intern @ [Itaú Unibanco](https://www.itau.com/) | Sep 2019 - Sep 2020
 - Data Analytics Consultant Intern @ [SAS](https://www.sas.com/en_us/home.html) | Sep 2018 - Feb 2019
