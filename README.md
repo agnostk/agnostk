@@ -1,7 +1,5 @@
 ## Hi, I'm Felipe (aka agnostk) 🇯🇵
 
-> **agnostk** refers to being [language-agnostic](https://en.wikipedia.org/wiki/Language-agnostic). I focus on architectural principles over specific tech stacks.
-
 I am a **Senior Backend Engineer** at **[eMotion Fleet](https://www.emotion-fleet.com/)** in Tokyo, specializing in scalable distributed systems.
 
 ---
