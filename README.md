@@ -6,7 +6,7 @@ I am a **Senior Backend Engineer** at **[eMotion Fleet](https://www.emotion-flee
 
 ### Professional Experience
 
-* **Senior Backend Engineer** @ [eMotion Fleet](https://www.emotion-fleet.com/) | *Jul 2025 - Present*
+* **Senior Backend Engineer** @ [eMotion Fleet](https://www.emotion-fleet.com/) | *Jul 2025 - Sep 2026*
 * **Senior Full Stack Developer** @ [AB InBev - Bees](https://www.bees.com/) | *Oct 2022 - May 2024*
 * **Jr Full Stack Engineer** @ [Itaú Unibanco](https://www.itau.com/) | *Apr 2022 - Oct 2022*
 * **Fraud Prevention Analyst** @ [Itaú Unibanco](https://www.itau.com/) | *2019 - 2020*
