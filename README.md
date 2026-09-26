@@ -10,8 +10,8 @@ I am a **Senior Software Engineer** currently working at a Stealth Startup.
 * **Senior Backend Engineer** @ [eMotion Fleet](https://www.emotion-fleet.com/) | *Jul 2025 - Sep 2026*
 * **Senior Full Stack Developer** @ [AB InBev - Bees](https://www.bees.com/) | *Oct 2022 - May 2024*
 * **Jr Full Stack Engineer** @ [Itaú Unibanco](https://www.itau.com/) | *Apr 2022 - Oct 2022*
-* **Fraud Prevention Analyst** @ [Itaú Unibanco](https://www.itau.com/) | *2019 - 2020*
-* **Data Analytics Consultant** @ [SAS](https://www.sas.com/) | *2018 - 2019*
+* **Fraud Prevention Analyst** @ [Itaú Unibanco](https://www.itau.com/) | *Sep 2019 - Sep 2020*
+* **Data Analytics Consultant** @ [SAS](https://www.sas.com/) | *Sep 2018 - Feb 2019*
 
 ---
 
