@@ -6,7 +6,7 @@ I am a **Senior Software Engineer** currently working at a Stealth Startup.
 
 ### Professional Experience
 
-* **Senior Software Engineer** @ Stealth Startup | *Sep 2026 - Current*
+* **Staff Software Engineer** @ Stealth Startup | *Sep 2026 - Current*
 * **Senior Backend Engineer** @ [eMotion Fleet](https://www.emotion-fleet.com/) | *Jul 2025 - Sep 2026*
 * **Senior Full Stack Developer** @ [AB InBev - Bees](https://www.bees.com/) | *Oct 2022 - May 2024*
 * **Jr Full Stack Engineer** @ [Itaú Unibanco](https://www.itau.com/) | *Apr 2022 - Oct 2022*
