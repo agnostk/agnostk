@@ -1,6 +1,6 @@
 ## Hi, I'm Felipe (aka agnostk) 🇯🇵
 
-I am a **Senior Software Engineer** currently working at a Stealth Startup.
+I am a **Software Engineer** currently working at a Stealth Startup.
 
 ---
 
